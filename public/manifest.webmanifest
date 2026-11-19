@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Agendas — seu negócio",
+  "short_name": "Agendas",
+  "description": "Organize sua agenda, seus clientes e o financeiro do seu atendimento.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#f7f7f2",
+  "icons": [
+    { "src": "/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
